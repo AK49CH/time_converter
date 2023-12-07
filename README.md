@@ -1,2 +1,2 @@
-# time_converter
+# time converter
 This tool uses Python and streamlit to create a web application for time conversion. The tool defines four time zones: Eastern, Zulu, Amman, and Dubai for use. The user can input a date, a time, and a preferred time zone for their meeting. The tool then converts the local time to the corresponding time zone. The tool then displays the meeting time in the selected time zone when the user. 
